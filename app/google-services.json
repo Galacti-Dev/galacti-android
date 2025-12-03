@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "612761665156",
+    "project_id": "galacti-app",
+    "storage_bucket": "galacti-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612761665156:android:79a27155debf5f95064cd1",
+        "android_client_info": {
+          "package_name": "com.example.galacti_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByccFu2Lf0tj5jdEogd3KUq2NYfpGV8DA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612761665156:android:19c91e0f8bfec190064cd1",
+        "android_client_info": {
+          "package_name": "com.galacti.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByccFu2Lf0tj5jdEogd3KUq2NYfpGV8DA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
